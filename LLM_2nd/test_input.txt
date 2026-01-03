@@ -1,0 +1,3 @@
+openai
+What are the main customer segments?
+/quit
