@@ -1,0 +1,15 @@
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+data/
+data_2/
+material/
+LLM/
+LLM-tutorial/
+*.docx
+*.pdf
+*.tmp
+project.txt
+inspect_data.py
+tempCodeRunnerFile.python
